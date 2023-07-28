@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 11ec5b30a986a9642b0062e63d2a4c76
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: f3be4f5c1b2949e429f253c50d60b153
+  - enabled: 1
+    path: Assets/Scenes/Nivel_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Nivel_3.unity
+    guid: 03e565fee66c60d4fb1efeea53be4a5f
+  - enabled: 1
+    path: Assets/Scenes/Bonus.unity
+    guid: 75506660698a05b4abd69699134fed4b
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: f5d8f5db3cee1a34cb82d9c70e02b0c1
+  - enabled: 1
+    path: Assets/Scenes/SelecciondeNivel.unity
+    guid: 3603345296da1664aa9d984e2b2fbf76
+  - enabled: 1
+    path: Assets/Scenes/Opciones.unity
+    guid: 0298f19d05f994a4d9117dda072bf889
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 7681f78742299a145a6e706e501f60c9
+  - enabled: 1
+    path: Assets/Scenes/deN3aBonus.unity
+    guid: e61e17d3f310fcd49a0f5bc6ae747ab4
+  - enabled: 1
+    path: Assets/Scenes/Nivel_3PostBonus.unity
+    guid: 6fbfddffd07ff6c4cbbd82ba799d9239
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: 66234cc2a2f3c5a428b858570a3c5cc5
+  m_configObjects: {}
