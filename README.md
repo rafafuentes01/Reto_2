@@ -1,2 +1,2 @@
 # Reto2
- Reto 2 niveles
+ Realizado en Unity versión 2022.3.3f1
