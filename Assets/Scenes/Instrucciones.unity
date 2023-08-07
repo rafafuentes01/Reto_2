@@ -833,7 +833,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Debes conseguir todas las frutas antes de que se acabe el tiempo
+  m_text: Debes conseguir todas las frutas antes de que acabe el tiempo
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f9c7fe58fc2166c4f8247201ce5b41bc, type: 2}
   m_sharedMaterial: {fileID: -7671124322500270431, guid: f9c7fe58fc2166c4f8247201ce5b41bc, type: 2}
@@ -987,8 +987,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1618304613}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.7666798, y: -2, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalPosition: {x: -1.72, y: -2.04, z: 0}
+  m_LocalScale: {x: 1.3251001, y: 1.0783237, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
